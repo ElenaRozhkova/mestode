@@ -1,12 +1,11 @@
-# Сервис Mesto 
+# Service Mesto 
 
-### Обзор
-* Интро
+* Intro
 * Figma
-* Картинки
+* Cards
 
-Интерактивная страница, где можно редактировать свой профиль. Также можно добавлять фотографии, удалять их и ставить лайки.
+Eine mobile Website in anpassungsfähigem Design, für Smartphone & Tablet, PC und Laptop. Layoutmethode: Flexbox, Grid Layout.
 
-Технологии, использованные при создании проекта: HTML, CSS, JavaScript, БЭМ, GIT, ОПП, Webpack.
+Technologien: HTML, CSS, JavaScript, BEM, GIT, OOP, Webpack.
 
-* Ссылка на Проект https://elenarozhkova.github.io/mesto/index.html
+* Link: https://elenarozhkova.github.io/mestode/index.html
