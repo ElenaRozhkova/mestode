@@ -1,0 +1,6 @@
+.profile__edit-icon {
+    position: absolute;
+    z-index: -1;
+    left: 35%;
+    top: 40%;
+}

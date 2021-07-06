@@ -1,0 +1,12 @@
+.profile__change-avatar {
+    position: relative;
+    cursor: pointer;
+}
+
+.profile__change-avatar:hover .profile__avatar {
+    opacity: .2;
+}
+
+.profile__change-avatar:hover .profile__edit-icon {
+    z-index: 1;
+}

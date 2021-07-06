@@ -1,0 +1,8 @@
+.card__vector_active {
+    opacity: 1;
+    background: url(https://code.s3.yandex.net/web-code/dom/heart-filled.svg) center no-repeat;
+}
+
+.card__vector_active:hover {
+    transition: 0.4s;
+}

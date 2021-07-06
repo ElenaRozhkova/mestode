@@ -1,0 +1,14 @@
+.card__vector-like {
+    border: none;
+    background: url(https://code.s3.yandex.net/web-code/dom/heart.svg) center no-repeat;
+    background-size: 100%;
+    cursor: pointer;
+    height: 19px;
+    width: 22px;
+    right: 10px;
+    transition: 0.3s;
+}
+
+.card__vector-like:hover {
+    opacity: 0.5;
+}

@@ -1,0 +1,21 @@
+.popup__close-icon {
+    background-image: url(../../../images/CloseIcon.png);
+    background-color: transparent;
+    background-position: center;
+    background-repeat: no-repeat;
+    transform: rotate(45deg);
+    min-width: 40px;
+    min-height: 40px;
+
+}
+
+@media screen and (max-width: 760px) {
+    .popup__close-icon {
+        min-width: 26px;
+        min-height: 26px;
+    }
+}
+
+.popup__close-icon:hover {
+    opacity: 0.6;
+}
